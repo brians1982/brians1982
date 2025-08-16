@@ -8,7 +8,7 @@ Since then, I have also created models using PyTorch, to be able to take advanta
 
 Outside of work, I am contributing to a couple research papers that combine digital pathology and machine learning. Check out our first preprint, [UltraLight Med-Vision Mamba for Classification of Neoplastic Progression in Tubular Adenomas](https://arxiv.org/abs/2508.09339) here  I created the labeled tile dataset for this paper by training an EfficientNetV2S CNN to process hundreds of digitized Whole Slide Images (WSIs) using training data from about 20 WSIs with regions of interest annotated by expert pathologists.  More of my work with CNNs and the GradCAM algorithm will be publicly available soon.
 
-Example original WSI and WSI with overlay retained tiles indicated by green shading and discarded tiles by dark yellow.
+Example original WSI and WSI with overlay retained tiles (green shading) and discarded tiles (dark yellow shading).
 
 
 <img src="combined_1_resized.png" height="300"> <img src="combined_2_resized.png" height="300"> <img src="combined_3_resized.png" height="300"> 
