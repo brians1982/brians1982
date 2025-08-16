@@ -6,6 +6,10 @@ I created my first end-to-end FEA-surrogate model in early 2022, which entailed 
 
 Since then, I have also created models using PyTorch, to be able to take advantage of the strengths of both TensorFlow and PyTorch.
 
+I presented some of my work on FEA-Surrogate models at the Siemens Realize LIVE Conference, held in June, 2025 in Detroit, MI.  My colleague presented his work to automate CAD generation for training models and I discussed the training process and how I am using surrogates for rapid design space exploration.  Check out our presentation [here](Realize_Live2025_Shula_Stephens.pdf).
+
+##
+
 Outside of work, I am contributing to a couple research papers that combine digital pathology and machine learning. Check out our first preprint, [UltraLight Med-Vision Mamba for Classification of Neoplastic Progression in Tubular Adenomas](https://arxiv.org/abs/2508.09339) here.  I created the labeled tile dataset for this paper by training an EfficientNetV2S CNN to process hundreds of gigapixel digitized Whole Slide Images (WSIs) using training data from about 20 WSIs with regions of interest annotated by expert pathologists.  More of my work with CNNs and the GradCAM algorithm will be publicly available soon.
 
 Example original WSIs and WSIs with an overlay of retained tiles (green shading) and discarded tiles (dark yellow shading).
@@ -14,6 +18,8 @@ Example original WSIs and WSIs with an overlay of retained tiles (green shading)
 <img src="combined_1_resized.png" height="300"> <img src="combined_2_resized.png" height="300"> <img src="combined_3_resized.png" height="300"> 
 
 ## 
+
+# Portfolio
 
 Check out my [portfolio](https://github.com/brians1982/portfolio) for several example machine learning and Python projects!  I have created examples for FEA-Surrogates, machine learning, FEA automation, and data processing in Python.
 
