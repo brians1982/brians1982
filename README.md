@@ -13,13 +13,17 @@ Example original WSI and WSI with overlay retained tiles (green shading) and dis
 
 <img src="combined_1_resized.png" height="300"> <img src="combined_2_resized.png" height="300"> <img src="combined_3_resized.png" height="300"> 
 
+## 
 
-Check out my [portfolio](https://github.com/brians1982/portfolio) for several example projects!
+Check out my [portfolio](https://github.com/brians1982/portfolio) for several example machine learning and Python projects!  I have created examples for FEA-Surrogates, machine learning, FEA automation, and data processing in Python.
+
+##
 
 ## Education
 
 - MS in Mechanical Engineering, Univeristy of Notre Dame
 - BS in Mechanical Engineering, University of Notre Dame
+- For machine learning and data science courses on Coursera, see my [LinkedIn](https://www.linkedin.com/in/brianshula/) profile.
 
 ## Connect with me
 
