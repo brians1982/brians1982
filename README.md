@@ -6,7 +6,7 @@ I created my first end-to-end FEA-surrogate model in early 2022, which entailed 
 
 Since then, I have also created models using PyTorch, to be able to take advantage of the strengths of both TensorFlow and PyTorch.
 
-Outside of work, I am contributing to a couple research papers in the medical field by creating tile datasets and fine-tuning EfficientNet CNNs (more on that soon).  
+Outside of work, I am contributing to a couple research papers that combine digital pathology and machine learning. Check out our first preprint, [UltraLight Med-Vision Mamba for Classification of Neoplastic Progression in Tubular Adenomas](https://arxiv.org/abs/2508.09339)!  I created the labeled tile dataset for this paper by training an EfficientNetV2S CNN to process hundreds of digitized Whole Slide Images (WSIs) using training data from about 20 WSIs with regions of interest annotated by expert pathologists.  More of my work with CNNs and the GradCAM algorithm will be publicly available soon.
 
 Check out my portfolio for several example projects!
 
